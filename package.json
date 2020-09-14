@@ -1,0 +1,16 @@
+{
+  "name": "cypauto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaikh Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.1.0",
+    "imdb-api": "^4.2.0",
+    "unirest": "^0.6.0"
+  }
+}
